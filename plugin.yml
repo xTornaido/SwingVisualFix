@@ -1,0 +1,7 @@
+name: SwingFix
+main: tornaido\SwingVisualFix
+author: Tornaido
+load: POSTWORLD
+version: 1.0.0
+api: 4.0.0
+description: Fixes the attack visual glitch.
